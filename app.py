@@ -41,6 +41,7 @@ PAGE_ACCESS = {
     "Planner Engineer": ["TSMH Performance", "Permit Management", "Operational Analytics"],
     "Project Manager": ["Executive Overview", "TSMH Performance", "Permit Management"],
     "Facility Manager": ["Executive Overview", "Permit Management"],
+        "HVAC Engineer": ["Overview","TSMH Trend","IMI Permits"],
     "HSE In-Charge": ["Executive Overview", "Operational Analytics", "TSMH Performance", 
                       "Safety Intelligence", "Permit Management", "Training & Compliance", 
                       "Risk Assessment", "Reports & Export"]
@@ -1226,4 +1227,5 @@ st.markdown("""
 </div>
 
 """, unsafe_allow_html=True)
+
 
