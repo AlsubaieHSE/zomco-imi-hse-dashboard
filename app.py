@@ -28,7 +28,7 @@ USERS = {
     "Azarudeen.Naina": {"password": "Azar@123", "role": "Planner Engineer"},
     "Mustafa.Talaq": {"password": "Mustafa@123", "role": "Project Manager"},
     "Saleh.Yami": {"password": "Saleh@123", "role": "Facility Manager"},
-    "Abdullah.AlSubaie": {"password": "Admin@123", "role": "HSE In-Charge"}
+    "Abdullah.AlSubaie": {"password": "Admin@123", "role": "HSE In-Charge"},
     "Ali.Yousuf": {"password": "Ali@123", "role": "HVAC Engineer"},
 
 }
@@ -1226,3 +1226,4 @@ st.markdown("""
 </div>
 
 """, unsafe_allow_html=True)
+
