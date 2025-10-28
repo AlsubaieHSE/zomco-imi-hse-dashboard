@@ -1222,7 +1222,7 @@ st.markdown("""
         Powered by Advanced Analytics • Real-time Monitoring • Predictive Intelligence
     </p>
     <p style="font-size: 0.85rem; color: #6C757D; margin-top: 0.5rem;">
-        Powered by HSE In-Charge: <strong>Abdullah AlSubaie</strong>
+        Created by HSE In-Charge: <strong>Abdullah AlSubaie</strong>
     </p>
 </div>
 
